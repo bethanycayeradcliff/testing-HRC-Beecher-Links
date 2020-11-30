@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://bethanycayeradcliff.github.io/testing-HRC-Beecher-Links/-1-mp3-link-from-page-for-side-1-https-server15878-contentdm-oclc-org-dmwebservices-index-php-q-dmgetstreamingfile-p15878coll1-34-mp3-byte-json/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "#1 .mp3 link from page for side 1: https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll1/34.mp3/byte/json" ] },
+    "label": { "en": [ "R_0124_01_01 1 MP3 Link from CDM page" ] },
     "homepage": [
       {
         "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37",
         "type": "Text",
-        "label": { "en": [ "Home page for #1 .mp3 link from page for side 1: https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll1/34.mp3/byte/json" ] },
+        "label": { "en": [ "Home page for R_0124_01_01 1 MP3 Link from CDM page" ] },
         "format": "text/html"
       }
     ],

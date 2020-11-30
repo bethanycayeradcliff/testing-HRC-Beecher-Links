@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bethanycayeradcliff.github.io/testing-HRC-Beecher-Links/r_0124_01_01-link-with-getstream/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "R_0124_01_01 Link with GetStream" ] },
+    "homepage": [
+      {
+        "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/33/rec/2",
+        "type": "Text",
+        "label": { "en": [ "Home page for R_0124_01_01 Link with GetStream" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://hrc.contentdm.oclc.org/digita",
+        "type": "Agent",
+        "label": { "en": [ "Harry Ransom Center" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bethanycayeradcliff.github.io/testing-HRC-Beecher-Links/r_0124_01_01-link-with-getstream/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1005.0,
+        "items": [
+          {
+            "id": "https://bethanycayeradcliff.github.io/testing-HRC-Beecher-Links/r_0124_01_01-link-with-getstream/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bethanycayeradcliff.github.io/testing-HRC-Beecher-Links/r_0124_01_01-link-with-getstream/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://hrc.contentdm.oclc.org/utils/getstream/collection/p15878coll1/id/33",
+                    "duration": 1005.0
+                },
+                "target": "https://bethanycayeradcliff.github.io/testing-HRC-Beecher-Links/r_0124_01_01-link-with-getstream/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 

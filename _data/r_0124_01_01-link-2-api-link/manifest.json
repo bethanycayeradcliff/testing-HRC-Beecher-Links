@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://bethanycayeradcliff.github.io/testing-HRC-Beecher-Links/r_0124_01_01-link-2-api-link/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "R_0124_01_01 Link 2 API link" ] },
+    "label": { "en": [ "R_0124_01_01 Link with GetStream" ] },
     "homepage": [
       {
         "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/33/rec/2",
         "type": "Text",
-        "label": { "en": [ "Home page for R_0124_01_01 Link 2 API link" ] },
+        "label": { "en": [ "Home page for R_0124_01_01 Link with GetStream" ] },
         "format": "text/html"
       }
     ],

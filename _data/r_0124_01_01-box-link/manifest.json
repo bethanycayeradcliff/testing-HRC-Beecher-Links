@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bethanycayeradcliff.github.io/testing-HRC-Beecher-Links/r_0124_01_01-box-link/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "R_0124_01_01 Box Link" ] },
+    "homepage": [
+      {
+        "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/2",
+        "type": "Text",
+        "label": { "en": [ "Home page for R_0124_01_01 Box Link" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://hrc.contentdm.oclc.org/digital",
+        "type": "Agent",
+        "label": { "en": [ "Harry Ransom Center" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bethanycayeradcliff.github.io/testing-HRC-Beecher-Links/r_0124_01_01-box-link/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1005.0,
+        "items": [
+          {
+            "id": "https://bethanycayeradcliff.github.io/testing-HRC-Beecher-Links/r_0124_01_01-box-link/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bethanycayeradcliff.github.io/testing-HRC-Beecher-Links/r_0124_01_01-box-link/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://utexas.box.com/shared/static/5wy6h55dw1mqgnra8wuw10eqk2citxsc.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1005.0
+                },
+                "target": "https://bethanycayeradcliff.github.io/testing-HRC-Beecher-Links/r_0124_01_01-box-link/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
